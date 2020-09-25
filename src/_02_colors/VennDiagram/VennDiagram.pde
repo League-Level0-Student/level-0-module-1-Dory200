@@ -1,1 +1,11 @@
 size(600,600);
+int x=300;
+int y=300;
+int x2=220;
+int y2=220;
+int x3=350;
+int widthh=200;
+int heightt=200;
+ellipse (x, y, widthh, heightt);
+ellipse (x2, y2, widthh, heightt);
+ellipse (x3, y2, widthh, heightt);
